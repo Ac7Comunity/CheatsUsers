@@ -1,26 +1,18 @@
 [
-  {"email": "chandlerdev2@gmail.com", "clave": "ac7"},
-  {"email": "user2@gmail.com", "clave": "key2"},
-  {"email": "user3@gmail.com", "clave": "key3"},
-  {"email": "user4@gmail.com", "clave": "key4"},
-  {"email": "user5@gmail.com", "clave": "key5"},
-  {"email": "user6@gmail.com", "clave": "key6"},
-  {"email": "user7@gmail.com", "clave": "key7"},
-  {"email": "user8@gmail.com", "clave": "key8"},
-  {"email": "user9@gmail.com", "clave": "key9"},
-  {"email": "user10@gmail.com", "clave": "key10"},
-  {"email": "user11@gmail.com", "clave": "key11"},
-  {"email": "user12@gmail.com", "clave": "key12"},
-  {"email": "user13@gmail.com", "clave": "key13"},
-  {"email": "user14@gmail.com", "clave": "key14"},
-  {"email": "user15@gmail.com", "clave": "key15"},
-  {"email": "user16@gmail.com", "clave": "key16"},
-  {"email": "user17@gmail.com", "clave": "key17"},
-  {"email": "user18@gmail.com", "clave": "key18"},
-  {"email": "user19@gmail.com", "clave": "key19"},
-  {"email": "user20@gmail.com", "clave": "key20"},
-  {"email": "user21@gmail.com", "clave": "key21"},
-  {"email": "user23@gmail.com", "clave": "key23"},
-  {"email": "user24@gmail.com", "clave": "key24"},
-  {"email": "ac7comunity@gmail.com", "clave": "key25"}
+  {
+    "email": "chandlerdev2@gmail.com",
+    "clave": "AC7-KEY-001"
+  },
+  {
+    "email": "usuario2@example.com",
+    "clave": "AC7-KEY-002"
+  },
+  {
+    "email": "titomta@gmail.com",
+    "clave": "AC7-KEY-003"
+  },
+    {
+    "email": "ac7cheats@gmail.com",
+    "clave": "AC7-KEY-003"
+  }
 ]
