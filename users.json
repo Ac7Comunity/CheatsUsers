@@ -1,22 +1,10 @@
-[
-  {
-    "email": "chandlerdev2@gmail.com",
-    "clave": "AC7-KEY-001"
-  },
-  {
-    "email": "luisdaniel@gmail.com",
-    "clave": "KeyDaniel"
-  },
-  {
-    "email": "titomta@gmail.com",
-    "clave": "AC7-KEY-003"
-  },
-    {
-    "email": "santosdarwin19@gmail.com",
-    "clave": "darwin19"
-  },
-      {
-    "email": "lianpaulino2123@gmail.com",
-    "clave": "12345"
-  }
-]
+{
+  "valid_keys": [
+    "KEY123456789",
+    "KEY987654321",
+    "KEY1122334455",
+    "KEYABCDE12345",
+    "KEY67890XYZ",
+    "KEYGHDJ9302L"
+  ]
+}
