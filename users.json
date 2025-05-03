@@ -1,10 +1,18 @@
 {
-  "valid_keys": [
-    "KEY123456789",
-    "KEY987654321",
-    "KEY1122334455",
-    "KEYABCDE12345",
-    "KEY67890XYZ",
-    "KEYGHDJ9302L"
-  ]
+  "[ZEUS]ChatRP": {
+    "TU_USUARIO": {
+      "user_key": "TU_CLAVE",
+      "server_ip": "192.168.0.1:22003"
+    },
+    "OtroUsuario": {
+      "user_key": "OtraClave",
+      "server_ip": "192.168.0.2:22003"
+    }
+  },
+  "[ZEUS]OtroRecurso": {
+    "OtroUsuario": {
+      "user_key": "ClaveDeOtroRecurso",
+      "server_ip": "192.168.0.3:22003"
+    }
+  }
 }
