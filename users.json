@@ -1,18 +1,7 @@
-{
-  "[ZEUS]ChatRP": {
-    "TU_USUARIO": {
-      "user_key": "TU_CLAVE",
-      "server_ip": "192.168.0.1:22003"
-    },
-    "OtroUsuario": {
-      "user_key": "OtraClave",
-      "server_ip": "192.168.0.2:22003"
-    }
-  },
-  "[ZEUS]OtroRecurso": {
-    "OtroUsuario": {
-      "user_key": "ClaveDeOtroRecurso",
-      "server_ip": "192.168.0.3:22003"
-    }
-  }
+
+  "users": [
+    {"username": "admin", "password": "1234"},
+    {"username": "test", "password": "abcd"},
+    {"username": "zxrpt", "password": "ElViolaNiños5000"}
+  ]
 }
